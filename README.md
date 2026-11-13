@@ -28,5 +28,6 @@ Computer Science student at Florida Gulf Coast University (B.S. expected May 202
 
 - **Languages:** Python, TypeScript, JavaScript, Java, C++, SQL, HTML/CSS
 - **Frameworks:** Flask + SQLAlchemy, Django, React Native (Expo), PyTorch
-- **AI:** Claude API, Ollama, QLoRA fine-tuning (Unsloth, TRL). I work with Claude Code and Codex, running several agents in parallel with herdr, each on its own branch, and I approve every merge.
+- **AI:** Claude API, Ollama, QLoRA fine-tuning (Unsloth, TRL)
+- **AI-Assisted Development:** Claude Code, Codex; parallel agent orchestration with herdr, branch-per-task isolation, cross-agent code review, and human approval on every merge
 - **Infrastructure:** Linux (Ubuntu via WSL2 and a home GPU server), Docker, GitHub Actions, Fly.io, Render, Neon Postgres, Stripe Connect
