@@ -1,6 +1,6 @@
 # Emery Reszka
 
-Computer Science student at Florida Gulf Coast University (B.S. expected May 2027) and former NCAA Division I swimmer at the University of Wisconsin–Milwaukee on a four-year athletic scholarship. I build and ship full-stack web and mobile apps, with a focus on payments, AI integration, and disciplined engineering process.
+Computer Science student at Florida Gulf Coast University (B.S. expected Dec 2027) and former NCAA Division I swimmer at the University of Wisconsin–Milwaukee on a four-year athletic scholarship. I build and ship full-stack web and mobile apps, with a focus on payments, AI integration, and disciplined engineering process.
 
 [Portfolio](https://eareszka.github.io) · [LinkedIn](https://www.linkedin.com/in/emery-reszka/)
 
